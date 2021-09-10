@@ -9,7 +9,7 @@ body{
 
 .navbar-dark .navbar-nav .nav-link:hover{
     text-shadow: 2px white !important;
-    color: aquamarine !important;
+    color : rgb(104, 104, 253)!important;
     font-weight: 500;
 }
 
